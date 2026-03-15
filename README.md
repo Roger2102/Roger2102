@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas no 5° período em busca de oportunidades no mercado de tecnologia para agregar meus conhecimentos!!!</p>
+<p align="left">Iniciante em Análise e Desenvolvimento de Sistemas em busca de oportunidades no mercado de tecnologia para agregar meus conhecimentos!!!</p>
 
 ###
 
